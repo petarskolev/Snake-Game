@@ -1,0 +1,2 @@
+C:\Файлове след инсталацията\Codes\SNAKE GAME\x64\Debug\SNAKE GAME.exe
+C:\Файлове след инсталацията\Codes\SNAKE GAME\x64\Debug\SNAKE GAME.pdb

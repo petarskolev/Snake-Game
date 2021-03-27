@@ -1,0 +1,3 @@
+﻿  SNAKE GAME SF.c
+C:\Файлове след инсталацията\Codes\SNAKE GAME\SNAKE GAME SF.c(125,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SNAKE GAME.vcxproj -> C:\Файлове след инсталацията\Codes\SNAKE GAME\x64\Debug\SNAKE GAME.exe
